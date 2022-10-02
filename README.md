@@ -1,5 +1,7 @@
 # vue-threejs
 
+A first test combining VUE with Three.JS
+
 ## Project setup
 ```
 npm install
