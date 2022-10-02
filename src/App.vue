@@ -23,4 +23,10 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+#canvas {
+  z-index:-1;
+  position: absolute;
+  left:0;
+  top:0;
+}
 </style>
